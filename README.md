@@ -34,9 +34,15 @@ LLM: Groq’s Mistral LLM (for generating accurate and context-aware responses)
 
 Deployment: Dockerized and deployed on Hugging Face Spaces
 
+![image](https://github.com/user-attachments/assets/d853509d-b4a4-4625-bc4b-757e12da451b)
+
 CI/CD: Automated deployment using GitHub Actions
 
+![image](https://github.com/user-attachments/assets/ad8416ec-f696-49d4-82c5-8f1a9a21541d)
+
 Frontend: HTML, CSS, and JavaScript (for a smooth user experience)
+
+![image](https://github.com/user-attachments/assets/aba3173a-ec6b-463d-ab03-ea59f982a69c)
 
 This project aims to enhance the efficiency of pediatricians by providing them with a powerful AI assistant, enabling better-informed decision-making in real-time. 🚀
 
