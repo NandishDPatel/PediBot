@@ -22,7 +22,7 @@ User-Friendly Interface: Designed with a simple and intuitive frontend for seaml
 
 Vector Database: Pinecone (for efficient similarity search and retrieval)
 
-![image](https://github.com/user-attachments/assets/6521bdd8-39d3-4d9d-a16a-ea889bccbea4)
+<img src="https://github.com/user-attachments/assets/6521bdd8-39d3-4d9d-a16a-ea889bccbea4" width="600">
 
 Embeddings: Hugging Face embeddings (to generate high-quality vector representations)
 
