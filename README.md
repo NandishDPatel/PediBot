@@ -1,6 +1,8 @@
 **AI-Powered RAG-Based Chatbot for Pediatricians**
 
-![image](https://github.com/user-attachments/assets/f560103b-9ede-47a9-96d6-6abb34eec391)
+<img src="https://github.com/user-attachments/assets/f560103b-9ede-47a9-96d6-6abb34eec391" width="300">
+
+Deployed app- https://huggingface.co/spaces/Satya-bit/MEDICALBOT
 
 # Overview
 
