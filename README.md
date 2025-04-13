@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/f560103b-9ede-47a9-96d6-6abb34eec391" width="600">
 
-# Please check my app at- https://huggingface.co/spaces/Satya-bit/MEDICALBOT
+# Please check my app at hugginf face HUB- https://huggingface.co/spaces/Satya-bit/MEDICALBOT
 
 # Overview
 
