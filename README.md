@@ -6,7 +6,7 @@
 
 # Motivation
 
-We have made this RAG Chatbot for Satya's sister.
+_We have made this RAG Chatbot for Satya's sister._
 
 Hi, I’m Satya. I come from a family of doctors, especially pediatricians. This app is a small tribute to all the dedicated pediatricians out there—especially my sister.
 
@@ -64,4 +64,4 @@ This project aims to enhance the efficiency of pediatricians by providing them w
 
 # Future Works
 
-I would definitely like to add more textbooks of pediatrics in future and make this app as reliable as possible
+We would definitely like to add more textbooks of pediatrics in future and make this app as reliable as possible.
