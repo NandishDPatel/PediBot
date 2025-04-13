@@ -4,6 +4,16 @@
 
 # Please check my app at hugginf face HUB- https://huggingface.co/spaces/Satya-bit/MEDICALBOT
 
+# Motivation
+
+We have made this RAG Chatbot for Satya's sister.
+
+Hi, I’m Satya. I come from a family of doctors, especially pediatricians. This app is a small tribute to all the dedicated pediatricians out there—especially my sister.
+
+My sister is currently pursuing her Master’s in Pediatrics and handles numerous cases every day. Sometimes, for complex or critical cases, she needs to refer to textbooks for accurate and reliable information.
+
+Instead of spending time searching through Google or flipping through heavy books, this app helps her quickly fetch relevant information directly from the textbook. It’s designed to save time and provide accurate references in moments that matter.
+
 # Overview
 
 This project is an AI-powered Retrieval-Augmented Generation (RAG) chatbot designed to assist pediatricians with instant, context-aware medical insights. By leveraging advanced retrieval and language modeling techniques, the chatbot provides quick and accurate responses, supporting clinical decision-making with an average response time of under 3 seconds.
@@ -51,3 +61,7 @@ This project aims to enhance the efficiency of pediatricians by providing them w
 ![image](https://github.com/user-attachments/assets/1d7f499c-6977-4b67-827b-7c4e97bb283e)
 
 ![image](https://github.com/user-attachments/assets/440329d6-0270-42e8-a9ef-62e8f57df5c1)
+
+# Future Works
+
+I would definitely like to add more textbooks of pediatrics in future and make this app as reliable as possible
