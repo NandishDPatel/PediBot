@@ -66,6 +66,12 @@ APIs- Flask
 
 # Output
 
+In the first image you can see we get the results exactly same that is written in the textbook(highlighted) but in a different language.
+
+![image](https://github.com/user-attachments/assets/0491d097-0bf2-4671-86c9-e948c82d024b)
+
+![image](https://github.com/user-attachments/assets/c8be897d-c7df-453f-a58b-95cbbd0f9b17)
+
 ![image](https://github.com/user-attachments/assets/1d7f499c-6977-4b67-827b-7c4e97bb283e)
 
 ![image](https://github.com/user-attachments/assets/440329d6-0270-42e8-a9ef-62e8f57df5c1)
