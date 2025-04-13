@@ -79,3 +79,7 @@ In the first image you can see we get the results exactly same that is written i
 # Future Works
 
 We would definitely like to add more textbooks of pediatrics in future and make this app as reliable as possible.
+
+# Limitation
+
+The one and only limitation of this Pedibot is that it will answer questions related to Pediatric field only. Suppose user asks question like "What is the weather today?" or even if asks "How are you?" then the chatbot will respond with "I don't know.". 
