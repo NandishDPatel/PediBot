@@ -14,6 +14,12 @@ My sister is currently pursuing her Master’s in Pediatrics and handles numerou
 
 Instead of spending time searching through Google or flipping through heavy books, this app helps her quickly fetch relevant information directly from the textbook. It’s designed to save time and provide accurate references in moments that matter.
 
+# Credits
+
+Nelson is the most famous textbook in Pediatrics. We were not able to upload the textbook on github because it was very large.
+
+Nelson Textbook 8th Edition - https://dl.cafepezeshki.ir/book/Nelson-Essentials-of-Pediatrics-8th-Edition(www.CafePezeshki.IR).pdf
+
 # Overview
 
 This project is an AI-powered Retrieval-Augmented Generation (RAG) chatbot designed to assist pediatricians with instant, context-aware medical insights. By leveraging advanced retrieval and language modeling techniques, the chatbot provides quick and accurate responses, supporting clinical decision-making with an average response time of under 3 seconds.
