@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/f560103b-9ede-47a9-96d6-6abb34eec391" width="600">
 
-# Please check my app at hugginf face HUB- https://huggingface.co/spaces/Satya-bit/MEDICALBOT
+# Please check our app at hugging face HUB- https://huggingface.co/spaces/Satya-bit/MEDICALBOT
 
 # Motivation
 
@@ -60,7 +60,9 @@ Frontend: HTML, CSS, and JavaScript (for a smooth user experience)
 
 ![image](https://github.com/user-attachments/assets/aba3173a-ec6b-463d-ab03-ea59f982a69c)
 
-This project aims to enhance the efficiency of pediatricians by providing them with a powerful AI assistant, enabling better-informed decision-making in real-time. 🚀
+APIs- Flask
+
+![image](https://github.com/user-attachments/assets/79ad0dc8-4c37-4249-a6f6-c39e50cca78a)
 
 # Output
 
