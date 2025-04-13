@@ -1,4 +1,4 @@
-#This contains the helper function of the project
+#This contains the helper function of the project##
 
 from langchain.document_loaders import PyPDFLoader,DirectoryLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
